@@ -1,3 +1,3 @@
-# MatplotlibChallenge
+# MatplotlibChallenge- The Power of Plots
 
-This MatplotLib project is done by Edris Gemtessa at university of Mennisota.
+![image](https://user-images.githubusercontent.com/76269709/120911959-f1b84200-c650-11eb-954f-39ae8a8ea6eb.png)
